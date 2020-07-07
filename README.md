@@ -1,5 +1,4 @@
-# file-manager (TEAM-FALCON-Backend)
-
+# File-Manager
 > A dockerized micro-service for adding, updating, retrieving and deleting files
 
 ### Quick Start
